@@ -5,13 +5,13 @@
 
 ## Analyzing Dashboard Pages 
 ### This dashboard has three pages.
-1. 1. first page Flop Rate Analysis talks about the average percentage of flops, the type of method followed by customers, the type of method followed by customers, the top 5 customers charging per month and the total fees as paperless invoices for each gender
-2. Page 2 Customer Behavior We can see the total customers for internet services (how many customers subscribe to { fiber optic, DSL, or have no service})
+1. first page <a href="https://github.com/MohamedNasr55/Telecom_Trends/blob/main/Dashboard%20Images/Churn%20Rate.png"> Churn Rate Analysis <a> talks about the average percentage of flops, the type of method followed by customers, the type of method followed by customers, the top 5 customers charging per month and the total fees as paperless invoices for each gender
+2. Page 2 <a href="https://github.com/MohamedNasr55/Telecom_Trends/blob/main/Dashboard%20Images/Customer%20Behavior.png"> Customer Behavior Analysis <a> We can see the total customers for internet services (how many customers subscribe to { fiber optic, DSL, or have no service})
 - Number of customers with multiple lines
 - Type of contract per customer
 - Number of contracted customers
 - Number of services per contract
-3. Analyzing the behavior of third-page services
+3. Third page <a href="https://github.com/MohamedNasr55/Telecom_Trends/blob/main/Dashboard%20Images/Services%20Behavior.png"> Services Behavior Analysis <a>
 - We found the total number of services
 - Analyze telephone services by contract 
 - Monthly fees by contract for the service
