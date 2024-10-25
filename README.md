@@ -3,6 +3,20 @@
 - Welcome to the Power BI Telecom Dashboard project! This interactive dashboard is designed to provide you with powerful insights and visualizations based on telecom data, enabling you to analyze LTE performance, network availability, and more. 
 - In today's dynamic telecom industry, data-driven decisions are crucial. This Power BI Telecom Dashboard empowers you to harness the potential of your data and gain actionable insights.
 
+## Analyzing Dashboard Pages 
+### This dashboard has three pages.
+1. 1. first page Flop Rate Analysis talks about the average percentage of flops, the type of method followed by customers, the type of method followed by customers, the top 5 customers charging per month and the total fees as paperless invoices for each gender
+2. Page 2 Customer Behavior We can see the total customers for internet services (how many customers subscribe to { fiber optic, DSL, or have no service})
+- Number of customers with multiple lines
+- Type of contract per customer
+- Number of contracted customers
+- Number of services per contract
+3. Analyzing the behavior of third-page services
+- We found the total number of services
+- Analyze telephone services by contract 
+- Monthly fees by contract for the service
+- The import point is to analyze the total aggregate services behavior (for online backup, online security, or device protection)
+
 ## Exploratory data analysis
 - Telco company wants to investigate some of the reasons that could be leading to customer churn and they've provided you with a dataset and asked you to discover at least five elements that might be contributors to customer churn. 
 Turn your most insightful findings into a Dashboard that you would like to share with the management.
